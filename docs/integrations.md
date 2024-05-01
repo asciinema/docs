@@ -35,6 +35,7 @@ of cool things out there (in alphabetical order):
 - [sphinxcontrib.asciinema](https://github.com/divi255/sphinxcontrib.asciinema) - Easily embed asciinema videos into Sphinx documentation
 - [spielbash](https://github.com/Malinskiy/spielbash) - Spielbash helps you to automate asciicasts with asciinema
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [terminal-demo](https://github.com/ofek/terminal-demo) - Docker container for automatically producing GIFs from a set of shell commands
 - [wp-asciinema](https://github.com/passionsplay/wp-asciinema) - A WordPress plugin to allow for self-hosted asciicasts created with asciinema
 
 To add your own project here edit [this
