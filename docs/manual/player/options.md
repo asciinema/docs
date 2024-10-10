@@ -263,6 +263,22 @@ wherever you want to explain terminal contents in more detail.
 
 Defaults to `false`.
 
+### `hideKeystroke`
+
+Type: boolean
+
+Set this option to `true` to hide the keypresses.
+
+Defaults to `false`.
+
+!!! note
+
+    means the keys are shown if the video was [recorded with the
+    option --stdin](../cli/usage.md#asciinema-rec-filename), i.e.
+    `asciinema rec --stdin <filename>`.
+
+
+
 ### `terminalFontSize`
 
 Type: string
